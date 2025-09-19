@@ -4,6 +4,9 @@
 
 This project contains the sample code used in [The Practical Developer Blog](https://thepracticaldeveloper.com/2017/03/04/restcontroller-spring-boot-example-with-springfox-swagger/). It's a Spring Boot application with one plain Java object (`SpanishGreeting`) and a Spring Controller `SpanishGreetingController`.
 
+
+
+
 The main goal of the project is to show how to write a `@RestController` in Spring Boot and include documentation with Swagger.
  
 ## How does it work?
