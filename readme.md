@@ -7,6 +7,11 @@ This project contains the sample code used in [The Practical Developer Blog](htt
 
 
 
+
+
+
+
+
 The main goal of the project is to show how to write a `@RestController` in Spring Boot and include documentation with Swagger.
  
 ## How does it work?
